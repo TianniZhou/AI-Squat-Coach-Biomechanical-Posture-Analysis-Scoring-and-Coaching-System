@@ -14,7 +14,7 @@ AI Squat Coach: Biomechanical Posture Analysis, Scoring, and Coaching
 
 ***
 
-Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!----I have altered my original plan to a different one, and I change all my preposla and proposal already.
 
 #### What have you done for your project so far?
 
