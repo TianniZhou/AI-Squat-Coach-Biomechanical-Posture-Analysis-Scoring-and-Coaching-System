@@ -1,5 +1,5 @@
 # AI-Squat-Coach-Biomechanical-Posture-Analysis-Scoring-and-Coaching-System
-An interactive program that allows you to input your side squat photo, help you evaluate across 6 biomechanical metrics, and finally outputs a total score, six sections' scores, six seperate feedbacks and an image with your joints, skeleton line, and scores.
+An interactive program that allows you to input your side squat photo, help you evaluate across 6 biomechanical metrics, and finally outputs a total score, weighted from six sections' scores, six seperate feedbacks and an image with your joints, skeleton line, and scores.
 # YouTube Video Link:
 https://youtu.be/-1pqmw_WX3o
 # Journey: 
